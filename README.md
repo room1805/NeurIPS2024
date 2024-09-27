@@ -17,3 +17,4 @@
 11. Exploring and Improving Drafts in Blockwise Parallel Decoding
 12. CVQA:Culturally-diverse Multilingual Visual Question Answering Benchmark
 13. Scaling Retrieval-Based Langauge Models with a Trillion-Token Datastore
+14. WildGuard: Open One-stop Moderation Tools for Safety Risks, Jailbreaks, and Refusals of LLMs
