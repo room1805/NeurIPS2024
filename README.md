@@ -13,3 +13,4 @@
 7. On Affine Homotopy between Language Encoders
 8. Cooperate or Collapse: Emergence of Sustainable Cooperation in a Society of LLM Agents
 9. A Theoretical Understanding of Self-Correction through In-context Alignment
+10. Kaleido Diffusion - Improving Conditional Diffusion Models with Autoregressive Latent Modeling
