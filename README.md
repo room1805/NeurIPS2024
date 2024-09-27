@@ -12,3 +12,4 @@
 6. SELMA: Learning and Merging Skill-Specific Text-to-Image Experts with Auto-Generated Data
 7. On Affine Homotopy between Language Encoders
 8. Cooperate or Collapse: Emergence of Sustainable Cooperation in a Society of LLM Agents
+9. A Theoretical Understanding of Self-Correction through In-context Alignment
