@@ -15,3 +15,4 @@
 9. A Theoretical Understanding of Self-Correction through In-context Alignment
 10. Kaleido Diffusion - Improving Conditional Diffusion Models with Autoregressive Latent Modeling
 11. Exploring and Improving Drafts in Blockwise Parallel Decoding
+12. CVQA:Culturally-diverse Multilingual Visual Question Answering Benchmark
