@@ -22,3 +22,4 @@
 16. Interpreting the Weight Space of Customized Diffusion Models
 17. Scaling transformer neural networks for skillful and reliable medium-range weather forecasting
 18. End-To-End Causal Effect Estimation from Unstructured Natural Language Data
+19. HaloScope: Harnessing Unlabeled LLM Generations for Hallucination Detection [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/3)] (💫 spotlight)
