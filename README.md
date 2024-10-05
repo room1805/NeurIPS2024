@@ -32,4 +32,5 @@ list of neurips 2024 papers
 23. Not All Tokens Are What You Need for Pretraining [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/5)] (💫 oral)
 24. A Taxonomy of Challenges to Curating Fair Datasets [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/6)] (💫 oral)
 25. Do Finetti: On Causal Effects for Exchangeable Data [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/7)] (💫 oral)
+26. Guiding a Diffusion Model with a Bad Version of Itself [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/8)]  (💫 oral)
 
