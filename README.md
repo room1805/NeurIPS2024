@@ -1,5 +1,6 @@
-# 2024NeurIPS_Reading
+# NeurIPS 2024 Reading
 
+list of neurips 2024 papers 
 
 ### Selected Papers 
 
