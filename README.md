@@ -33,4 +33,87 @@ list of neurips 2024 papers
 24. A Taxonomy of Challenges to Curating Fair Datasets [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/6)] (💫 oral)
 25. Do Finetti: On Causal Effects for Exchangeable Data [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/7)] (💫 oral)
 26. Guiding a Diffusion Model with a Bad Version of Itself [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/8)]  (💫 oral)
+27. Achieving Efficient Alignment through Learned Correction (💫 oral)
+28. LLM Evaluators Recognize and Favor Their Own Generations (💫 oral)
+29. Stylus: Automatic Adapter Selection for Diffusion Models (💫 oral)
+30. Questioning the Survey Responses of Large Language Models (💫 oral)
+31. Statistical Efficiency of Distributional Temporal Differencev (💫 oral)
+32. CAT3D: Create Anything in 3D with Multi-View Diffusion Models (💫 oral)
+33. RL-GPT: Integrating Reinforcement Learning and Code-as-policy (💫 oral)
+34. Enhancing Preference-based Linear Bandits via Human Response Time (💫 oral)
+35. OpenMathInstruct-1: A 1.8 Million Math Instruction Tuning Dataset (💫 oral)
+36. The PRISM Alignment Dataset: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models (💫 oral)
+37. Unlocking the Boundaries of Thought: A Reasoning Granularity Framework to Quantify and Optimize Chain-of-Thought (💫 oral)
+38. Understanding, Rehearsing, and Introspecting: Learn a Policy from Textual Tutorial Books in Football Games (💫 oral)
+39. LINGOLY: A Benchmark of Olympiad-Level Linguistic Reasoning Puzzles in Low Resource and Extinct Languages (💫 oral)
+40. Trading Place for Space: Increasing Location Resolution Reduces Contextual Capacity in Hippocampal Codes (💫 oral)
+41. Learning to grok: Emergence of in-context learning and skill composition in modular arithmetic tasks (💫 oral)
+42. Stochastic Taylor Derivative Estimator: Efficient amortization for arbitrary differential operators (💫 oral)
+43. ChaosBench: A Multi-Channel, Physics-Based Benchmark for Subseasonal-to-Seasonal Climate Prediction (💫 oral)
+44. RG-SAN: Rule-Guided Spatial Awareness Network for End-to-End 3D Referring Expression Segmentation (💫 oral)
+45. Achieving Optimal Clustering in Gaussian Mixture Models with Anisotropic Covariance Structures (💫 oral)
+46. Span-Based Optimal Sample Complexity for Weakly Communicating and General Average Reward MDPs (💫 oral)
+47. Flipped Classroom: Aligning Teacher Attention with Student in Generalized Category Discovery (💫 oral)
+48. 3702	Reinforcement Learning Under Latent Dynamics: Toward Statistical and Algorithmic Modularity (💫 oral)
+49. Maximum Entropy Inverse Reinforcement Learning of Diffusion Models with Energy-Based Models (💫 oral)
+50. Exploitation of a Latent Mechanism in Graph Contrastive Learning: Representation Scattering (💫 oral)
+51. Improving Environment Novelty Quantification for Effective Unsupervised Environment Design (💫 oral)
+52. Divide-and-Conquer Meets Consensus: Unleashing the Power of Functions in Code Generation  (💫 oral)
+53. DapperFL: Domain Adaptive Federated Learning with Model Fusion Pruning for Edge Devices (💫 oral) 
+54. Brain Treebank: Large-scale intracranial recordings from naturalistic language stimuli (💫 oral) 
+55. Learning rigid-body simulators over implicit shapes for large-scale scenes and vision  (💫 oral) 
+56. Identification and Estimation of the Bi-Directional MR with Some Invalid Instruments  (💫 oral)
+57. DuQuant: Distributing Outliers via Dual Transformation Makes Stronger Quantized LLMs  (💫 oral)
+58. DenoiseReID: Denoising Model for Representation Learning of Person Re-Identification  (💫 oral)
+59. Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction  (💫 oral)
+60. Weisfeiler and Leman Go Loopy: A New Hierarchy for Graph Representational Learning  (💫 oral)
+61. Generalization Error Bounds for Two-stage Recommender Systems with Tree Structure  (💫 oral)
+62. Get Rid of Isolation: A Continuous Multi-task Spatio-Temporal Learning Framework  (💫 oral)
+63. Gaussian-Informed Continuum for Physical Property Identification and Simulation  (💫 oral)
+64. MeshFormer : High-Quality Mesh Generation with 3D-Guided Reconstruction Model  (💫 oral)
+65. PV-Tuning: Beyond Straight-Through Estimation for Extreme LLM Compression  (💫 oral)
+66. NeuroClips: Towards High-fidelity and Smooth fMRI-to-Video Reconstruction  (💫 oral)
+67. CVQA: Culturally-diverse Multilingual Visual Question Answering Benchmark  (💫 oral)
+68. MedCalc-Bench: Evaluating Large Language Models for Medical Calculations  (💫 oral)
+69. Embodied Agent Interface: Benchmarking LLMs for Embodied Decision Making  (💫 oral)
+70. Solving Intricate Problems with Human-like Decomposition and Rethinking  (💫 oral)
+71. MDAgents: An Adaptive Collaboration of LLMs for Medical Decision Making  (💫 oral) 
+72. Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs  (💫 oral) 
+73. You Only Cache Once: Decoder-Decoder Architectures for Language Models  (💫 oral)
+74. The Sample-Communication Complexity Trade-off in Federated Q-Learning  (💫 oral) 
+75. SeeA*: Efficient Exploration-Enhanced A* Search by Selective Sampling  (💫 oral)
+76. MetaLA: Unified Optimal Linear Approximation to Softmax Attention Map  (💫 oral) 
+77. Improved Distribution Matching Distillation for Fast Image Synthesis  (💫 oral)
+78. HydraLoRA: An Asymmetric LoRA Architecture for Efficient Fine-Tuning  (💫 oral)
+79. DevBench: A multimodal developmental benchmark for language learning  (💫 oral)
+80. Neural Pfaffians: Solving Many Many-Electron Schrödinger Equations  (💫 oral)
+81. E2E-MFD: Towards End-to-End Synchronous Multimodal Fusion Detection  (💫 oral)
+82. AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents  (💫 oral)
+83. VASA-1: Lifelike Audio-Driven Talking Faces Generated in Real Time  (💫 oral)
+84. MoEUT: Mixture-of-Experts Universal Transformers
+85. Mixture of Demonstrations for In-Context Learning
+86. Linear Transformers are Versatile In-Context Learners
+87. Retrieval & Fine-Tuning for In-Context Tabular Models
+88. Learnable In-Context Vector for Visual Question Answering
+89. A Simple Image Segmentation Framework via In-Context Examples
+90. Hybrid Mamba: An Promising In-Context RL for Long-Term Decision
+91. Mixture of In-Context Experts Enhance LLMs' Long Context Awareness
+92. On the Noise Robustness of In-Context Learning for Text Generation
+93. Where does In-context Learning \\ Happen in Large Language Models?
+94. Linking In-context Learning in Transformers to Human Episodic Memory
+95. In-Context Learning State Vector with Inner and Momentum Optimization
+96. Universal In-Context Approximation By Prompting Fully Recurrent Models
+97. Multimodal Task Vectors Enable Many-Shot Multimodal In-Context Learning
+98. BERTs are Generative In-Context Learners
+99. Opponent Modeling with In-context Search
+100. Can large language models explore in-context?
+101. Mixture of Demonstrations for In-Context Learning
+102. Analysing the Generalisation and Reliability of Steering Vectors
+103. Personalized Steering of Large Language Models: Versatile Steering Vectors Through Bi-directional Preference Optimization
+104. In-Context Learning with Representations: Contextual Generalization of Trained Transformers
+105. Latent Paraphrasing: Perturbation on Layers Improves Knowledge Injection in Language Models
+
+
+
+
 
