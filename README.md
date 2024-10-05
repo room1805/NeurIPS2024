@@ -112,6 +112,14 @@ list of neurips 2024 papers
 103. Personalized Steering of Large Language Models: Versatile Steering Vectors Through Bi-directional Preference Optimization
 104. In-Context Learning with Representations: Contextual Generalization of Trained Transformers
 105. Latent Paraphrasing: Perturbation on Layers Improves Knowledge Injection in Language Models
+106. A StrongREJECT for Empty Jailbreaks
+107. Bag of Tricks: Benchmarking of Jailbreak Attacks on LLMs
+108. Tree of Attacks: Jailbreaking Black-Box LLMs Automatically
+109. Fight Back Against Jailbreaking via Prompt Adversarial Tuning
+110. When LLM Meets DRL: Advancing Jailbreaking Efficiency via DRL-guided Search
+111. Efficient LLM Jailbreak via Adaptive Dense-to-sparse Constrained Optimization
+112. JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models
+
 
 
 
