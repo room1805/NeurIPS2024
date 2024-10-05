@@ -29,4 +29,6 @@ list of neurips 2024 papers
 20. Precise Relational DNN Verification With Cross Executional Branching
 21. Scalable Neural Network Verification with Branch-and-bound Inferred Cutting Planes [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/4)]
 22. ZeroMark: Towards Dataset Ownership Verification without Disclosing Dataset-specified Watermarks
-23. Not All Tokens Are What You Need for Pretraining [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/5)] (💫 oral) 
+23. Not All Tokens Are What You Need for Pretraining [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/5)] (💫 oral)
+24. A Taxonomy of Challenges to Curating Fair Datasets [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/6)] (💫 oral)
+
