@@ -24,5 +24,5 @@
 18. End-To-End Causal Effect Estimation from Unstructured Natural Language Data
 19. HaloScope: Harnessing Unlabeled LLM Generations for Hallucination Detection [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/3)] (💫 spotlight)
 20. Precise Relational DNN Verification With Cross Executional Branching
-21. Scalable Neural Network Verification with Branch-and-bound Inferred Cutting Planes
+21. Scalable Neural Network Verification with Branch-and-bound Inferred Cutting Planes [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/4)]
 22. ZeroMark: Towards Dataset Ownership Verification without Disclosing Dataset-specified Watermarks
