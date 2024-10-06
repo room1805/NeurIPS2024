@@ -24,7 +24,7 @@ list of neurips 2024 papers
 15. Spectral Editing of Activations for Large Language Model Alignment
 16. Interpreting the Weight Space of Customized Diffusion Models
 17. Scaling transformer neural networks for skillful and reliable medium-range weather forecasting
-18. End-To-End Causal Effect Estimation from Unstructured Natural Language Data
+18. End-To-End Causal Effect Estimation from Unstructured Natural Language Data [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/13)]
 19. HaloScope: Harnessing Unlabeled LLM Generations for Hallucination Detection [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/3)] (💫 spotlight)
 20. Precise Relational DNN Verification With Cross Executional Branching
 21. Scalable Neural Network Verification with Branch-and-bound Inferred Cutting Planes [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/4)]
