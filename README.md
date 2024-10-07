@@ -119,6 +119,13 @@ list of neurips 2024 papers
 110. When LLM Meets DRL: Advancing Jailbreaking Efficiency via DRL-guided Search
 111. Efficient LLM Jailbreak via Adaptive Dense-to-sparse Constrained Optimization
 112. JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models
+113. Unified Covariate Adjustment for Causal Inference
+114. Disentangled Representation Learning in Non-Markovian Causal Systems
+115. Mind the Gap: A Causal Perspective on Bias Amplification in Prediction & Decision-Making
+116. Causal Imitation for Markov Decision Processes: a Partial Identification Approach [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/14)]
+117. Partial Transportability for Domain Generalization
+
+
 
 
 
