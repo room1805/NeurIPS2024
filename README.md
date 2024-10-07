@@ -10,7 +10,7 @@ list of neurips 2024 papers
 1. Random Representations Outperform Online Continually Learned Representations [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/10)]
 2. BLEnD: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages (Alice Oh) [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/11)]
 3. Mission Impossible: A Statistical Perspective on Jailbreaking LLMs [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/12)]
-4. Iteration Head: A Mechanistic Study of Chain-of-Thought
+4. Iteration Head: A Mechanistic Study of Chain-of-Thought [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/15)]
 5. The Evolution of Statistical Induction Heads: In-Context Learning Markov Chains
 6. SELMA: Learning and Merging Skill-Specific Text-to-Image Experts with Auto-Generated Data
 7. On Affine Homotopy between Language Encoders
