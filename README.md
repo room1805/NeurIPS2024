@@ -124,6 +124,8 @@ list of neurips 2024 papers
 115. Mind the Gap: A Causal Perspective on Bias Amplification in Prediction & Decision-Making
 116. Causal Imitation for Markov Decision Processes: a Partial Identification Approach [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/14)]
 117. Partial Transportability for Domain Generalization
+118. What Factors Affect Multi-modal In-Context Learning? An In-Depth Exploration
+
 
 
 
