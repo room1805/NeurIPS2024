@@ -126,10 +126,34 @@ list of neurips 2024 papers
 117. Partial Transportability for Domain Generalization
 118. What Factors Affect Multi-modal In-Context Learning? An In-Depth Exploration
 119. Algorithmic Capabilities of Random Transformers [[Discussion(https://github.com/room1805/NeurIPS2024/discussions/18)]]
-
-
-
-
+120. Interpreting CLIP with Sparse Linear Concept Embeddings (SpLiCE)
+121. On Causal Discovery in the Presence of Deterministic Relations
+122. Mind the Gap: A Causal Perspective on Bias Amplification in Prediction & Decision-Making
+123. Transformer Efficiently Learns Low-dimensional Target Functions In-context
+124. Opponent Modeling with In-context Search
+125. Can large language models explore in-context?
+126. Symmetries In-Context: Universal Self-Supervised Learning through Contextual World Models
+127. The Closeness of In-Context Learning and Weight Shifting for Softmax Regression
+128. How In-Context Learning Emerges from Training on Unstructured Data: The Role of Co-Occurrence, Positional Information, and Noise Structures
+129. Drift-Resilient TabPFN: In-Context Learning Distribution Shifts on Tabular Data
+130. Enhancing In-Context Learning Performance with just SVD-Based Weight Pruning: A Theoretical Perspective
+131. In-Context Learning of a Linear Transformer Block: Benefits of the MLP Component and One-Step GD Initialization
+132. In-Context Learning with Representations: Contextual Generalization of Trained Transformers
+133. BERTs are Generative In-Context Learners
+134. DETAIL: Task DEmonsTration Attribution for Interpretable In-context Learning
+135. Universal In-Context Approximation By Prompting Fully Recurrent Models
+136. Transformers as Game Players: Provable In-context Game-playing Capabilities of Pre-trained Models
+137. Fine-grained Analysis of In-context Linear Estimation
+138. Transformers are Minimax Optimal Nonparametric In-Context Learners
+139. Linear Transformers are Versatile In-Context Learners
+140. Towards Understanding How Transformers Learn In-context Through a Representation Learning Lens
+141. Many-Shot In-Context Learning
+142. Multimodal Task Vectors Enable Many-Shot Multimodal In-Context Learning
+143. On the Noise Robustness of In-Context Learning for Text Generation
+144. How Transformers Utilize Multi-Head Attention in In-Context Learning? A Case Study on Sparse Linear Regression
+145. LG-CAV: Train Any Concept Activation Vector with Language Guidance
+146. Improving Sparse Decomposition of Language Model Activations with Gated Sparse Autoencoders
+147. DreamSteerer: Enhancing Source Image Conditioned Editability using Personalized Diffusion Models
 
 
 
