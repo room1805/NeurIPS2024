@@ -47,13 +47,13 @@ list of neurips 2024 papers
 38. Understanding, Rehearsing, and Introspecting: Learn a Policy from Textual Tutorial Books in Football Games (💫 oral)
 39. LINGOLY: A Benchmark of Olympiad-Level Linguistic Reasoning Puzzles in Low Resource and Extinct Languages (💫 oral)
 40. Trading Place for Space: Increasing Location Resolution Reduces Contextual Capacity in Hippocampal Codes (💫 oral)
-41. Learning to grok: Emergence of in-context learning and skill composition in modular arithmetic tasks (💫 oral)
+41. Learning to grok: Emergence of in-context learning and skill composition in modular arithmetic tasks (💫 oral) [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/22)]
 42. Stochastic Taylor Derivative Estimator: Efficient amortization for arbitrary differential operators (💫 oral)
 43. ChaosBench: A Multi-Channel, Physics-Based Benchmark for Subseasonal-to-Seasonal Climate Prediction (💫 oral)
 44. RG-SAN: Rule-Guided Spatial Awareness Network for End-to-End 3D Referring Expression Segmentation (💫 oral)
 45. Achieving Optimal Clustering in Gaussian Mixture Models with Anisotropic Covariance Structures (💫 oral)
 46. Span-Based Optimal Sample Complexity for Weakly Communicating and General Average Reward MDPs (💫 oral)
-47. Flipped Classroom: Aligning Teacher Attention with Student in Generalized Category Discovery (💫 oral)
+47. Flipped Classroom: Aligning Teacher Attention with Student in Generalized Category Discovery (💫 oral) [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/21)]
 48. 3702	Reinforcement Learning Under Latent Dynamics: Toward Statistical and Algorithmic Modularity (💫 oral)
 49. Maximum Entropy Inverse Reinforcement Learning of Diffusion Models with Energy-Based Models (💫 oral)
 50. Exploitation of a Latent Mechanism in Graph Contrastive Learning: Representation Scattering (💫 oral)
