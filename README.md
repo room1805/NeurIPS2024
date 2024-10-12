@@ -4,14 +4,30 @@ list of neurips 2024 papers
 
 * https://papercopilot.com/paper-list/neurips-paper-list/neurips-2024-paper-list/
 
+
+- Not All Tokens Are What You Need for Pretraining [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/5)] (💫 oral)
+- A Taxonomy of Challenges to Curating Fair Datasets [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/6)] (💫 oral)
+- Do Finetti: On Causal Effects for Exchangeable Data [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/7)] (💫 oral)
+- Guiding a Diffusion Model with a Bad Version of Itself [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/8)]  (💫 oral)
+- Stylus: Automatic Adapter Selection for Diffusion Models (💫 oral) [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/24)]
+- Random Representations Outperform Online Continually Learned Representations [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/10)]
+- BLEnD: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages (Alice Oh) [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/11)]
+- Mission Impossible: A Statistical Perspective on Jailbreaking LLMs [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/12)]
+- Iteration Head: A Mechanistic Study of Chain-of-Thought [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/15)]
+- The Evolution of Statistical Induction Heads: In-Context Learning Markov Chains [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/16)]
+- End-To-End Causal Effect Estimation from Unstructured Natural Language Data [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/13)]
+- HaloScope: Harnessing Unlabeled LLM Generations for Hallucination Detection [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/3)] (💫 spotlight)
+- Scalable Neural Network Verification with Branch-and-bound Inferred Cutting Planes [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/4)]
+- Unlocking the Boundaries of Thought: A Reasoning Granularity Framework to Quantify and Optimize Chain-of-Thought (💫 oral) [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/23)]
+- Learning to grok: Emergence of in-context learning and skill composition in modular arithmetic tasks (💫 oral) [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/22)]
+- Flipped Classroom: Aligning Teacher Attention with Student in Generalized Category Discovery (💫 oral) [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/21)]
+- Causal Imitation for Markov Decision Processes: a Partial Identification Approach [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/14)]
+- Algorithmic Capabilities of Random Transformers [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/18)]
+
 ### Selected Papers 
 
 
-1. Random Representations Outperform Online Continually Learned Representations [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/10)]
-2. BLEnD: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages (Alice Oh) [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/11)]
-3. Mission Impossible: A Statistical Perspective on Jailbreaking LLMs [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/12)]
-4. Iteration Head: A Mechanistic Study of Chain-of-Thought [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/15)]
-5. The Evolution of Statistical Induction Heads: In-Context Learning Markov Chains [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/16)]
+
 6. SELMA: Learning and Merging Skill-Specific Text-to-Image Experts with Auto-Generated Data
 7. On Affine Homotopy between Language Encoders
 8. Cooperate or Collapse: Emergence of Sustainable Cooperation in a Society of LLM Agents
@@ -24,18 +40,13 @@ list of neurips 2024 papers
 15. Spectral Editing of Activations for Large Language Model Alignment
 16. Interpreting the Weight Space of Customized Diffusion Models
 17. Scaling transformer neural networks for skillful and reliable medium-range weather forecasting
-18. End-To-End Causal Effect Estimation from Unstructured Natural Language Data [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/13)]
-19. HaloScope: Harnessing Unlabeled LLM Generations for Hallucination Detection [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/3)] (💫 spotlight)
-20. Precise Relational DNN Verification With Cross Executional Branching
-21. Scalable Neural Network Verification with Branch-and-bound Inferred Cutting Planes [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/4)]
+
+21. Precise Relational DNN Verification With Cross Executional Branching
+
 22. ZeroMark: Towards Dataset Ownership Verification without Disclosing Dataset-specified Watermarks
-23. Not All Tokens Are What You Need for Pretraining [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/5)] (💫 oral)
-24. A Taxonomy of Challenges to Curating Fair Datasets [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/6)] (💫 oral)
-25. Do Finetti: On Causal Effects for Exchangeable Data [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/7)] (💫 oral)
-26. Guiding a Diffusion Model with a Bad Version of Itself [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/8)]  (💫 oral)
-27. Achieving Efficient Alignment through Learned Correction (💫 oral)
-28. LLM Evaluators Recognize and Favor Their Own Generations (💫 oral)
-29. Stylus: Automatic Adapter Selection for Diffusion Models (💫 oral)
+28. Achieving Efficient Alignment through Learned Correction (💫 oral)
+29. LLM Evaluators Recognize and Favor Their Own Generations (💫 oral)
+
 30. Questioning the Survey Responses of Large Language Models (💫 oral)
 31. Statistical Efficiency of Distributional Temporal Differencev (💫 oral)
 32. CAT3D: Create Anything in 3D with Multi-View Diffusion Models (💫 oral)
@@ -43,17 +54,17 @@ list of neurips 2024 papers
 34. Enhancing Preference-based Linear Bandits via Human Response Time (💫 oral)
 35. OpenMathInstruct-1: A 1.8 Million Math Instruction Tuning Dataset (💫 oral)
 36. The PRISM Alignment Dataset: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models (💫 oral)
-37. Unlocking the Boundaries of Thought: A Reasoning Granularity Framework to Quantify and Optimize Chain-of-Thought (💫 oral) [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/23)]
+
 38. Understanding, Rehearsing, and Introspecting: Learn a Policy from Textual Tutorial Books in Football Games (💫 oral)
 39. LINGOLY: A Benchmark of Olympiad-Level Linguistic Reasoning Puzzles in Low Resource and Extinct Languages (💫 oral)
 40. Trading Place for Space: Increasing Location Resolution Reduces Contextual Capacity in Hippocampal Codes (💫 oral)
-41. Learning to grok: Emergence of in-context learning and skill composition in modular arithmetic tasks (💫 oral) [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/22)]
+
 42. Stochastic Taylor Derivative Estimator: Efficient amortization for arbitrary differential operators (💫 oral)
 43. ChaosBench: A Multi-Channel, Physics-Based Benchmark for Subseasonal-to-Seasonal Climate Prediction (💫 oral)
 44. RG-SAN: Rule-Guided Spatial Awareness Network for End-to-End 3D Referring Expression Segmentation (💫 oral)
 45. Achieving Optimal Clustering in Gaussian Mixture Models with Anisotropic Covariance Structures (💫 oral)
 46. Span-Based Optimal Sample Complexity for Weakly Communicating and General Average Reward MDPs (💫 oral)
-47. Flipped Classroom: Aligning Teacher Attention with Student in Generalized Category Discovery (💫 oral) [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/21)]
+
 48. 3702	Reinforcement Learning Under Latent Dynamics: Toward Statistical and Algorithmic Modularity (💫 oral)
 49. Maximum Entropy Inverse Reinforcement Learning of Diffusion Models with Energy-Based Models (💫 oral)
 50. Exploitation of a Latent Mechanism in Graph Contrastive Learning: Representation Scattering (💫 oral)
@@ -122,38 +133,38 @@ list of neurips 2024 papers
 113. Unified Covariate Adjustment for Causal Inference
 114. Disentangled Representation Learning in Non-Markovian Causal Systems
 115. Mind the Gap: A Causal Perspective on Bias Amplification in Prediction & Decision-Making
-116. Causal Imitation for Markov Decision Processes: a Partial Identification Approach [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/14)]
+
 117. Partial Transportability for Domain Generalization
 118. What Factors Affect Multi-modal In-Context Learning? An In-Depth Exploration
-119. Algorithmic Capabilities of Random Transformers [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/18)]
-120. Interpreting CLIP with Sparse Linear Concept Embeddings (SpLiCE)
-121. On Causal Discovery in the Presence of Deterministic Relations
-122. Mind the Gap: A Causal Perspective on Bias Amplification in Prediction & Decision-Making
-123. Transformer Efficiently Learns Low-dimensional Target Functions In-context
-124. Opponent Modeling with In-context Search
-125. Can large language models explore in-context?
-126. Symmetries In-Context: Universal Self-Supervised Learning through Contextual World Models
-127. The Closeness of In-Context Learning and Weight Shifting for Softmax Regression
-128. How In-Context Learning Emerges from Training on Unstructured Data: The Role of Co-Occurrence, Positional Information, and Noise Structures
-129. Drift-Resilient TabPFN: In-Context Learning Distribution Shifts on Tabular Data
-130. Enhancing In-Context Learning Performance with just SVD-Based Weight Pruning: A Theoretical Perspective
-131. In-Context Learning of a Linear Transformer Block: Benefits of the MLP Component and One-Step GD Initialization
-132. In-Context Learning with Representations: Contextual Generalization of Trained Transformers
-133. BERTs are Generative In-Context Learners
-134. DETAIL: Task DEmonsTration Attribution for Interpretable In-context Learning
-135. Universal In-Context Approximation By Prompting Fully Recurrent Models
-136. Transformers as Game Players: Provable In-context Game-playing Capabilities of Pre-trained Models
-137. Fine-grained Analysis of In-context Linear Estimation
-138. Transformers are Minimax Optimal Nonparametric In-Context Learners
-139. Linear Transformers are Versatile In-Context Learners
-140. Towards Understanding How Transformers Learn In-context Through a Representation Learning Lens
-141. Many-Shot In-Context Learning
-142. Multimodal Task Vectors Enable Many-Shot Multimodal In-Context Learning
-143. On the Noise Robustness of In-Context Learning for Text Generation
-144. How Transformers Utilize Multi-Head Attention in In-Context Learning? A Case Study on Sparse Linear Regression
-145. LG-CAV: Train Any Concept Activation Vector with Language Guidance
-146. Improving Sparse Decomposition of Language Model Activations with Gated Sparse Autoencoders
-147. DreamSteerer: Enhancing Source Image Conditioned Editability using Personalized Diffusion Models
+
+121. Interpreting CLIP with Sparse Linear Concept Embeddings (SpLiCE)
+122. On Causal Discovery in the Presence of Deterministic Relations
+123. Mind the Gap: A Causal Perspective on Bias Amplification in Prediction & Decision-Making
+124. Transformer Efficiently Learns Low-dimensional Target Functions In-context
+125. Opponent Modeling with In-context Search
+126. Can large language models explore in-context?
+127. Symmetries In-Context: Universal Self-Supervised Learning through Contextual World Models
+128. The Closeness of In-Context Learning and Weight Shifting for Softmax Regression
+129. How In-Context Learning Emerges from Training on Unstructured Data: The Role of Co-Occurrence, Positional Information, and Noise Structures
+130. Drift-Resilient TabPFN: In-Context Learning Distribution Shifts on Tabular Data
+131. Enhancing In-Context Learning Performance with just SVD-Based Weight Pruning: A Theoretical Perspective
+132. In-Context Learning of a Linear Transformer Block: Benefits of the MLP Component and One-Step GD Initialization
+133. In-Context Learning with Representations: Contextual Generalization of Trained Transformers
+134. BERTs are Generative In-Context Learners
+135. DETAIL: Task DEmonsTration Attribution for Interpretable In-context Learning
+136. Universal In-Context Approximation By Prompting Fully Recurrent Models
+137. Transformers as Game Players: Provable In-context Game-playing Capabilities of Pre-trained Models
+138. Fine-grained Analysis of In-context Linear Estimation
+139. Transformers are Minimax Optimal Nonparametric In-Context Learners
+140. Linear Transformers are Versatile In-Context Learners
+141. Towards Understanding How Transformers Learn In-context Through a Representation Learning Lens
+142. Many-Shot In-Context Learning
+143. Multimodal Task Vectors Enable Many-Shot Multimodal In-Context Learning
+144. On the Noise Robustness of In-Context Learning for Text Generation
+145. How Transformers Utilize Multi-Head Attention in In-Context Learning? A Case Study on Sparse Linear Regression
+146. LG-CAV: Train Any Concept Activation Vector with Language Guidance
+147. Improving Sparse Decomposition of Language Model Activations with Gated Sparse Autoencoders
+148. DreamSteerer: Enhancing Source Image Conditioned Editability using Personalized Diffusion Models
 
 
 
