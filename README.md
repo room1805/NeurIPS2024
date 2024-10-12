@@ -43,7 +43,7 @@ list of neurips 2024 papers
 34. Enhancing Preference-based Linear Bandits via Human Response Time (💫 oral)
 35. OpenMathInstruct-1: A 1.8 Million Math Instruction Tuning Dataset (💫 oral)
 36. The PRISM Alignment Dataset: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models (💫 oral)
-37. Unlocking the Boundaries of Thought: A Reasoning Granularity Framework to Quantify and Optimize Chain-of-Thought (💫 oral)
+37. Unlocking the Boundaries of Thought: A Reasoning Granularity Framework to Quantify and Optimize Chain-of-Thought (💫 oral) [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/23)]
 38. Understanding, Rehearsing, and Introspecting: Learn a Policy from Textual Tutorial Books in Football Games (💫 oral)
 39. LINGOLY: A Benchmark of Olympiad-Level Linguistic Reasoning Puzzles in Low Resource and Extinct Languages (💫 oral)
 40. Trading Place for Space: Increasing Location Resolution Reduces Contextual Capacity in Hippocampal Codes (💫 oral)
