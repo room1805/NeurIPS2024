@@ -4,24 +4,24 @@ list of neurips 2024 papers  [[stats](https://papercopilot.com/paper-list/neurip
 
 
 
-- Not All Tokens Are What You Need for Pretraining [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/5)] (💫 oral)
-- A Taxonomy of Challenges to Curating Fair Datasets [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/6)] (💫 oral)
-- Do Finetti: On Causal Effects for Exchangeable Data [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/7)] (💫 oral)
-- Guiding a Diffusion Model with a Bad Version of Itself [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/8)]  (💫 oral)
-- Stylus: Automatic Adapter Selection for Diffusion Models (💫 oral) [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/24)]
-- Random Representations Outperform Online Continually Learned Representations [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/10)]
-- BLEnD: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages (Alice Oh) [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/11)]
-- Mission Impossible: A Statistical Perspective on Jailbreaking LLMs [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/12)]
-- Iteration Head: A Mechanistic Study of Chain-of-Thought [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/15)]
-- The Evolution of Statistical Induction Heads: In-Context Learning Markov Chains [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/16)]
-- End-To-End Causal Effect Estimation from Unstructured Natural Language Data [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/13)]
-- HaloScope: Harnessing Unlabeled LLM Generations for Hallucination Detection [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/3)] (💫 spotlight)
-- Scalable Neural Network Verification with Branch-and-bound Inferred Cutting Planes [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/4)]
-- Unlocking the Boundaries of Thought: A Reasoning Granularity Framework to Quantify and Optimize Chain-of-Thought (💫 oral) [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/23)]
-- Learning to grok: Emergence of in-context learning and skill composition in modular arithmetic tasks (💫 oral) [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/22)]
-- Flipped Classroom: Aligning Teacher Attention with Student in Generalized Category Discovery (💫 oral) [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/21)]
-- Causal Imitation for Markov Decision Processes: a Partial Identification Approach [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/14)]
-- Algorithmic Capabilities of Random Transformers [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/18)]
+- Not All Tokens Are What You Need for Pretraining [[Disc](https://github.com/room1805/NeurIPS2024/discussions/5)] (💫 oral)
+- A Taxonomy of Challenges to Curating Fair Datasets [[Disc](https://github.com/room1805/NeurIPS2024/discussions/6)] (💫 oral)
+- Do Finetti: On Causal Effects for Exchangeable Data [[Disc](https://github.com/room1805/NeurIPS2024/discussions/7)] (💫 oral)
+- Guiding a Diffusion Model with a Bad Version of Itself [[Disc](https://github.com/room1805/NeurIPS2024/discussions/8)]  (💫 oral)
+- Stylus: Automatic Adapter Selection for Diffusion Models (💫 oral) [[Disc](https://github.com/room1805/NeurIPS2024/discussions/24)]
+- Random Representations Outperform Online Continually Learned Representations [[Disc](https://github.com/room1805/NeurIPS2024/discussions/10)]
+- BLEnD: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages (Alice Oh) [[Disc](https://github.com/room1805/NeurIPS2024/discussions/11)]
+- Mission Impossible: A Statistical Perspective on Jailbreaking LLMs [[Disc](https://github.com/room1805/NeurIPS2024/discussions/12)]
+- Iteration Head: A Mechanistic Study of Chain-of-Thought [[Disc](https://github.com/room1805/NeurIPS2024/discussions/15)]
+- The Evolution of Statistical Induction Heads: In-Context Learning Markov Chains [[Disc](https://github.com/room1805/NeurIPS2024/discussions/16)]
+- End-To-End Causal Effect Estimation from Unstructured Natural Language Data [[Disc](https://github.com/room1805/NeurIPS2024/discussions/13)]
+- HaloScope: Harnessing Unlabeled LLM Generations for Hallucination Detection [[Disc](https://github.com/room1805/NeurIPS2024/discussions/3)] (💫 spotlight)
+- Scalable Neural Network Verification with Branch-and-bound Inferred Cutting Planes [[Disc](https://github.com/room1805/NeurIPS2024/discussions/4)]
+- Unlocking the Boundaries of Thought: A Reasoning Granularity Framework to Quantify and Optimize Chain-of-Thought (💫 oral) [[Disc](https://github.com/room1805/NeurIPS2024/discussions/23)]
+- Learning to grok: Emergence of in-context learning and skill composition in modular arithmetic tasks (💫 oral) [[Disc](https://github.com/room1805/NeurIPS2024/discussions/22)]
+- Flipped Classroom: Aligning Teacher Attention with Student in Generalized Category Discovery (💫 oral) [[Disc](https://github.com/room1805/NeurIPS2024/discussions/21)]
+- Causal Imitation for Markov Decision Processes: a Partial Identification Approach [[Disc](https://github.com/room1805/NeurIPS2024/discussions/14)]
+- Algorithmic Capabilities of Random Transformers [[Disc](https://github.com/room1805/NeurIPS2024/discussions/18)]
 - Selective Generation for Language Models [[Dis](https://github.com/room1805/NeurIPS2024/discussions/25)]
 - 
 ### Selected Papers 
