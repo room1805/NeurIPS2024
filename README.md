@@ -22,7 +22,8 @@ list of neurips 2024 papers  [[stats](https://papercopilot.com/paper-list/neurip
 - Flipped Classroom: Aligning Teacher Attention with Student in Generalized Category Discovery (💫 oral) [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/21)]
 - Causal Imitation for Markov Decision Processes: a Partial Identification Approach [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/14)]
 - Algorithmic Capabilities of Random Transformers [[Discussion](https://github.com/room1805/NeurIPS2024/discussions/18)]
-
+- Selective Generation for Language Models [[Dis](https://github.com/room1805/NeurIPS2024/discussions/25)]
+- 
 ### Selected Papers 
 
 
