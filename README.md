@@ -1,7 +1,14 @@
 # NeurIPS 2024 Reading
 
-list of neurips 2024 papers  [[stats](https://papercopilot.com/paper-list/neurips-paper-list/neurips-2024-paper-list/)]
+list of NeurIPS 2024 papers  
 
+
+Useful Sites 
+- [[Papers-Official](https://nips.cc/virtual/2024/papers.html?filter=titles)]
+- [[stats](https://papercopilot.com/paper-list/neurips-paper-list/neurips-2024-paper-list/)]
+
+
+--- 
 
 
 - Not All Tokens Are What You Need for Pretraining [[Disc](https://github.com/room1805/NeurIPS2024/discussions/5)] (💫 oral)
