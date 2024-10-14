@@ -37,7 +37,7 @@ Useful Sites
 - GraphTrail: Translating GNN Predictions into Human-Interpretable Logical Rules [[Dis]()]
 - Enriching Disentanglement: From Logical Definitions to Quantitative Metrics [[Dis]()]
 - Interpret Your Decision: Logical Reasoning Regularization for Generalization in Visual Classification [[Dis]()]
-
+- Topological Hidden Markov Models [[Dis()]
 
 ### Selected Papers 
 
