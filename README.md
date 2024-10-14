@@ -30,7 +30,15 @@ Useful Sites
 - Causal Imitation for Markov Decision Processes: a Partial Identification Approach [[Disc](https://github.com/room1805/NeurIPS2024/discussions/14)]
 - Algorithmic Capabilities of Random Transformers [[Disc](https://github.com/room1805/NeurIPS2024/discussions/18)]
 - Selective Generation for Language Models [[Dis](https://github.com/room1805/NeurIPS2024/discussions/25)]
-- 
+- Adaptable Logical Control for Large Language Models [[Dis]()] 
+- A Foundation Model for Zero-shot Logical Query Reasoning [[Dis]()]
+- Abductive Reasoning in Logical Credal Networks [[Dis]()]
+- Logical characterizations of recurrent graph neural networks with reals and floats [[Dis]()]
+- GraphTrail: Translating GNN Predictions into Human-Interpretable Logical Rules [[Dis]()]
+- Enriching Disentanglement: From Logical Definitions to Quantitative Metrics [[Dis]()]
+- Interpret Your Decision: Logical Reasoning Regularization for Generalization in Visual Classification [[Dis]()]
+
+
 ### Selected Papers 
 
 
