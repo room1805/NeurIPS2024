@@ -38,16 +38,17 @@ Useful Sites
 - Enriching Disentanglement: From Logical Definitions to Quantitative Metrics [[Dis]()]
 - Interpret Your Decision: Logical Reasoning Regularization for Generalization in Visual Classification [[Dis]()]
 - Topological Hidden Markov Models [[Dis()]
+- SELMA: Learning and Merging Skill-Specific Text-to-Image Experts with Auto-Generated Data [[Dis](https://github.com/room1805/NeurIPS2024/discussions/26)]
+- Kaleido Diffusion - Improving Conditional Diffusion Models with Autoregressive Latent Modeling [[Dis](https://github.com/room1805/NeurIPS2024/discussions/27)]
 
 ### Selected Papers 
 
 
 
-6. SELMA: Learning and Merging Skill-Specific Text-to-Image Experts with Auto-Generated Data
+
 7. On Affine Homotopy between Language Encoders
 8. Cooperate or Collapse: Emergence of Sustainable Cooperation in a Society of LLM Agents
 9. A Theoretical Understanding of Self-Correction through In-context Alignment
-10. Kaleido Diffusion - Improving Conditional Diffusion Models with Autoregressive Latent Modeling
 11. Exploring and Improving Drafts in Blockwise Parallel Decoding
 12. CVQA:Culturally-diverse Multilingual Visual Question Answering Benchmark
 13. Scaling Retrieval-Based Langauge Models with a Trillion-Token Datastore
